@@ -1,5 +1,5 @@
-Database Name: P12_6-CMS
-Authors: P12_6
+Database Name: CMS_xchin02
+Authors: xchin02
 
 Table Name: StudentRecords
 ID	Name	Programme	Mark
