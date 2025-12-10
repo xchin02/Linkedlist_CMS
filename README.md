@@ -14,6 +14,6 @@ This system would store each student record into a singly linked list that suppo
 
 # How to Compile (on Windows)
 ```
-gcc main.c -o sms
+gcc main.c showsummary.c -o sms
 .\sms
 ```
